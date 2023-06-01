@@ -1,3 +1,7 @@
+#this function will while loop waiting for the try statement which will set attack = to a user input
+#the if will check what attack they chose and return it
+#the exception makes sure its a number
+#the defence function is basically the same thing
 def user_move():
     while True:
         try:
